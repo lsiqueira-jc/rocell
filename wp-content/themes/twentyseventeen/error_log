@@ -1,0 +1,12 @@
+[19-Jul-2018 16:36:31 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/rocel124/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[31-Jul-2018 00:24:36 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/rocel124/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[31-Jul-2018 00:24:43 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/rocel124/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[31-Jul-2018 00:24:55 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/rocel124/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[31-Jul-2018 00:25:01 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/rocel124/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[31-Jul-2018 00:25:10 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/rocel124/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[20-Oct-2018 05:58:41 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/rocel124/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Oct-2018 10:05:52 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home/rocel124/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[20-Oct-2018 12:03:23 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/rocel124/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[20-Oct-2018 13:51:34 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/rocel124/public_html/wp-content/themes/twentyseventeen/archive.php on line 13
+[20-Oct-2018 15:34:08 America/Chicago] PHP Fatal error:  Call to undefined function esc_attr() in /home/rocel124/public_html/wp-content/themes/twentyseventeen/searchform.php on line 13
+[20-Oct-2018 18:57:00 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/rocel124/public_html/wp-content/themes/twentyseventeen/header.php on line 16

@@ -1,0 +1,2 @@
+[24-Mar-2018 03:43:58 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/rocel124/public_html/wp-content/themes/spacious/archive.php on line 9
+[29-Mar-2018 03:30:01 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/rocel124/public_html/wp-content/themes/spacious/header.php on line 13
