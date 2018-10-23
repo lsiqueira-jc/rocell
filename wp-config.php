@@ -30,7 +30,7 @@ define( 'DB_USER', 'rocel124_lcs' );
 define( 'DB_PASSWORD', '3_lPJYVC#t35#' );
 
 /** Nome do host do MySQL */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'mysql995.umbler.com');
 
 /** Charset do banco de dados a ser usado na criação das tabelas. */
 define( 'DB_CHARSET', 'utf8' );
